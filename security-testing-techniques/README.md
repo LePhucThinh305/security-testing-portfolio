@@ -26,23 +26,26 @@ Link: https://youtu.be/SoDnnqJ1Tpk
 
 ### Question 2 – Firewall Configuration
 
+Q2.1 – Firewall concepts and rule design overview  
+Link: https://youtu.be/O-Yknlaia0I
+
 Q2.2 – Stateless firewall rule demonstration  
-Link: https://youtube.com/yourlink
+Link: https://youtu.be/WuwW5Xp_6AI
 
 Q2.3 Part 1 – Blocking traffic using iptables  
-Link: https://youtube.com/yourlink
+Link: https://youtu.be/ccM2nzQBxRA
 
 Q2.3 Part 2 – Testing blocked traffic  
-Link: https://youtube.com/yourlink
+Link: https://youtu.be/u85bSF7YyAM
 
 Q2.4 Part 1 – Stateful firewall rule setup  
-Link: https://youtube.com/yourlink
+Link: https://youtu.be/djwtQOTfAcg
 
 Q2.4 Part 2 – Testing stateful rules  
-Link: https://youtube.com/yourlink
+Link: https://youtu.be/ItzbPkDJRNA
 
 Q2.5 – Firewall rule verification  
-Link: https://youtube.com/yourlink
+Link: https://youtu.be/V1-9oVNhgl4
 
 ---
 
