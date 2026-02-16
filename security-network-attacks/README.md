@@ -22,32 +22,32 @@ Each video demonstrates a specific assignment question.
 ### Question 3 – Packet Sniffing & Spoofing
 
 Q3.1 – Packet sniffing setup  
-Link: https://youtube.com/yourlink
+Link: https://youtu.be/D2R31ZsMstk
 
 Q3.2 – Sniffing Telnet traffic  
-Link: https://youtube.com/yourlink
+Link: https://youtu.be/7f-adozh2pU
 
 Q3.4 – Packet spoofing attack  
-Link: https://youtube.com/yourlink
+Link: https://youtu.be/NrC5rbxahWo
 
 Q3.4 (Wireshark Analysis) – Captured spoofed packets  
-Link: https://youtube.com/yourlink
+Link: https://youtu.be/NnultACI63E
 
 ---
 
 ### Question 4 – TCP Attacks
 
 Q4.1 – TCP reset attack explanation/demo  
-Link: https://youtube.com/yourlink
+Link: https://youtu.be/Qi6nFrnp1eU
 
 Q4.2 – Executing TCP reset attack  
-Link: https://youtube.com/yourlink
+Link: https://youtu.be/OQCOMAVMDD0
 
 Q4.3 Part 1 – TCP session hijacking setup  
-Link: https://youtube.com/yourlink
+Link: https://youtu.be/q6fGeWmCcNM
 
 Q4.3 Part 2 – Successful session hijack demonstration  
-Link: https://youtube.com/yourlink
+Link: https://youtu.be/WUjfUj5W-Vs
 
 ---
 
