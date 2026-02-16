@@ -65,7 +65,7 @@ Link: https://youtube.com/yourlink
 ## Documentation
 
 - `assignment-specification.pdf` – Original assignment brief  
-- `report/` – Written report explaining commands, outputs, and analysis
+- `report/` – Written report explaining, showing codes, commands, outputs, and analysis
 
 ---
 
