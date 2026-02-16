@@ -52,10 +52,10 @@ Link: https://youtu.be/V1-9oVNhgl4
 ### Question 3 – Encryption
 
 Q3.1 – Encrypting file using OpenSSL  
-Link: https://youtube.com/yourlink
+Link: https://youtu.be/juATXlv2i1w
 
 Q3.2 Part 1 – ECB encryption result  
-Link: https://youtube.com/yourlink
+Link: https://youtu.be/vLJ8eq4LD1c
 
 Q3.2 Part 2 – ECB encryption result  
 Link: https://youtube.com/yourlink
