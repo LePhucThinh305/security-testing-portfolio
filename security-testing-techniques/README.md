@@ -20,7 +20,7 @@ All work was performed in an isolated lab environment as part of a Security Test
 ### Question 1 – Intrusion Detection (Q1.7–Q1.9)
 
 Q1.7–Q1.9 – Snort rule creation and alert detection  
-Link: https://youtube.com/yourlink
+Link: https://youtu.be/SoDnnqJ1Tpk
 
 ---
 
