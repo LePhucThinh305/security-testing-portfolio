@@ -58,7 +58,7 @@ Q3.2 Part 1 – ECB encryption result
 Link: https://youtu.be/vLJ8eq4LD1c
 
 Q3.2 Part 2 – ECB encryption result  
-Link: https://youtube.com/yourlink
+Link: https://youtu.be/RFQuODzQStY
 
 ---
 
